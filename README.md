@@ -1,4 +1,4 @@
-# AZ Hass.io addons
+# AZ Home Assistant addons
 
 - [Bluetooth-JDY-33-Relay-Bridge](https://github.com/alexanderznamensky/Bluetooth-JDY-33-Relay-Bridge) - MQTT-мост для Bluetooth-модулей JDY-33-BLE
 
