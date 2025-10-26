@@ -10,13 +10,15 @@ Note: Supervised installation type is deprecated and will no longer be supported
 
 **Add addon repository**
 
-`https://github.com/alexanderznamensky/hassio-addons`
+`https://github.com/alexanderznamensky/home-assistant-addons`
 
 ![](add_repo_1.png)
 
 ![](add_repo_2.png)
 
 ![](add_repo_3.png)
+
+![](add_repo_4.png)
 
 **Install addon**
 
