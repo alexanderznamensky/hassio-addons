@@ -4,7 +4,7 @@
 
 ## Install
 
-You must using [Home Assistant](https://www.home-assistant.io/) version with addon support.
+You must using [Home Assistant]([https://www.home-assistant.io/](https://www.home-assistant.io/installation/#about-installation-types)) version with addon support.
 
 [Home Assistant Operating System](https://www.home-assistant.io/installation/#about-installation-types) is the recommended installation type.
 
