@@ -14,6 +14,7 @@ MQTT-мост для Bluetooth-модулей **JDY-33-BLE** (совместим
 2. В интерфейсе HA:  
    **Settings → Add-ons → Local add-ons → Bluetooth JDY-33 Relay Bridge → Install**
 3. Откройте аддон, настройте параметры и нажмите **Start**.
+
 Через магазин дополнений:
 1. Добавьте репозиторий https://github.com/alexanderznamensky/home-assistant-addons в магазине дополнений.
 2. В интерфейсе HA:  
