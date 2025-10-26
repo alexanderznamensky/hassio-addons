@@ -26,6 +26,8 @@ Note: Supervised installation type is deprecated and will no longer be supported
 
 ![](install.png)
 
+![](install_2.png)
+
 **Config addon**
 
 ![](config.png)
