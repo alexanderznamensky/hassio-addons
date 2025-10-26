@@ -1,6 +1,6 @@
 # Home Assistant addons
 
-- [Bluetooth-JDY-33-Relay-Bridge](https://github.com/alexanderznamensky/Bluetooth-JDY-33-Relay-Bridge) - MQTT-мост для Bluetooth-модулей JDY-33-BLE
+- [Bluetooth-JDY-33-Relay-Bridge](https://github.com/alexanderznamensky/bluetooth-jdy33-relay-bridge) - MQTT-мост для Bluetooth-модулей JDY-33-BLE
 
 ## Install
 
