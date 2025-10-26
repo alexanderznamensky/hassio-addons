@@ -16,7 +16,7 @@
 MQTT-мост для Bluetooth-модулей **JDY-33-BLE** (должен быть совместим с BT05 / JDY-08, но не проверено), работающих по BLE (GATT).
 
 Документация: [Documentation](https://github.com/alexanderznamensky/home-assistant-addons/blob/main/README.md)
-и [Documentation](https://github.com/alexanderznamensky/home-assistant-addons/blob/main/bluetooth-jdy33-relay-bridge/README.md)
+и [Documentation](https://github.com/alexanderznamensky/home-assistant-addons/blob/main/bluetooth-jdy33-relay-bridge/DOCS.md)
 
 Позволяет управлять реле прямо из Home Assistant — **без rfcomm, без SPP-порта и без телефона**.
 
